@@ -54,4 +54,8 @@ Dashboard akan terbuka di `http://localhost:8501`.
 ## Catatan
 - Semua grafik dibuat dengan **plotly** sehingga interaktif (hover, zoom).
   Buka `Proyek_Analisis_Data.ipynb` di Google Colab, Jupyter, atau VS Code agar grafik tampil.
+<<<<<<< HEAD
 - Dashboard online: lihat link di `url.txt`.
+=======
+- Dashboard online: lihat link di `url.txt`.
+>>>>>>> b198fa2 (memperbaharui README)
